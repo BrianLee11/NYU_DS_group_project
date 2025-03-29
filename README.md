@@ -30,7 +30,7 @@ git clone https://github.com/BrianLee11/NYU_DS_group_project.git
 cd NYU_DS_group_project
 ```
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 Python
 
 Jupyter Notebook
