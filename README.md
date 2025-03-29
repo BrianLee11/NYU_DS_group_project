@@ -31,12 +31,8 @@ cd NYU_DS_group_project
 ```
 
 ## 🛠 Tools & Technologies
-Python
-
-Jupyter Notebook
-
-pandas, NumPy, scikit-learn
-
-matplotlib, seaborn, plotly
-
-Git & GitHub
+- Python
+- Jupyter Notebook
+- pandas, NumPy, scikit-learn
+- matplotlib, seaborn, plotly
+- Git & GitHub
