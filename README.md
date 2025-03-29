@@ -14,11 +14,11 @@ Our goals include:
 - Presenting results with clear visualizations and insights
 
 ## 🧑‍🤝‍🧑 Contributors
--
--
--
--
-- 
+- gitHub/BrianLee11
+- (gitHub user2)
+- (gitHub user3)
+- (gitHub user4)
+- (gitHub user5)
 
 
 ## 💡 Getting Started
