@@ -1,5 +1,7 @@
 New York University (NYU) 
+
 Data Science BootCamp
+
 Group Project
 
 Collaborative group project for the NYU Data Science BootCamp.  
