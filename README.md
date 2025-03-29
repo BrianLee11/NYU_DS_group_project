@@ -12,3 +12,19 @@ Our goals include:
 - Practicing collaborative coding using Git and GitHub
 - Producing reproducible, well-documented code
 - Presenting results with clear visualizations and insights
+
+## 🧑‍🤝‍🧑 Contributors
+-
+-
+-
+-
+- 
+
+
+## 💡 Getting Started
+
+To clone this repository and start working:
+
+```bash
+git clone https://github.com/BrianLee11/NYU_DS_group_project.git
+cd NYU_DS_group_project
