@@ -1,8 +1,4 @@
-New York University (NYU) 
-
-Data Science BootCamp
-
-Group Project
+# New York University (NYU) Data Science BootCamp Group Project
 
 Collaborative group project for the NYU Data Science BootCamp.  
 This repository contains analysis, code, and documentation developed by our project team.
