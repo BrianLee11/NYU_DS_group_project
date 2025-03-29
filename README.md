@@ -28,6 +28,7 @@ To clone this repository and start working:
 ```bash
 git clone https://github.com/BrianLee11/NYU_DS_group_project.git
 cd NYU_DS_group_project
+```
 
 🛠 Tools & Technologies
 Python
